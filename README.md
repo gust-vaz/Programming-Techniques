@@ -1,2 +1,2 @@
 # Programming-Techniques
-Some projects involving some programming technologies made on the second semester of 2022
+Some projects involving programming technologies made in the second semester of 2022
